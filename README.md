@@ -1,2 +1,9 @@
-# Java_teste_inicio
-Testando usabilidade do github fazendo a criação de um hello word em java 
+/* # Java_teste_inicio
+Testando usabilidade do github fazendo a criação de um hello word em java */
+
+public class OlaMundo{
+  public static void ( String [] Args){
+    System.out.println("Olá mundo");
+  }
+}
+
