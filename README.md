@@ -2,7 +2,7 @@
 Testando usabilidade do github fazendo a criação de um hello word em java */
 
 public class OlaMundo{
-  public static void ( String [] Args){
+  public static void main( String [] Args){
     System.out.println("Olá mundo");
   }
 }
